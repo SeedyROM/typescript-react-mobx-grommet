@@ -3,5 +3,5 @@ import { observer } from 'mobx-react';
 
 export class SearchBarStore {
     @observable
-    public currentValue: string = '';
+    public value: string = '';
 }

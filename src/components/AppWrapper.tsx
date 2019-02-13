@@ -1,7 +1,7 @@
 import * as React from 'react';
 import logo from '../assets/logo.svg';
 
-import { Box, Button, Grommet } from 'grommet';
+import { Grommet } from 'grommet';
 import { Provider } from 'mobx-react';
 
 import applicationStore from '../store';
