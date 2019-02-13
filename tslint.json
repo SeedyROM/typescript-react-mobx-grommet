@@ -7,6 +7,7 @@
     "jsRules": {},
     "rules": {
         "quotemark": [true, "single", "jsx-double"],
+        "no-unused-variable": [true, {"ignore-pattern": "^_"}],
         "object-literal-sort-keys": false
     },
     "rulesDirectory": []
